@@ -85,17 +85,23 @@ def readScenario(player):
     pl = player.getLocation()
 
     if pl == "officeOne":
-        print("Office: scenario text")
+        print("\nYour suspicions were correct - not only has your boss has been embezzeling funds, she has been bribing officials. ")
         time.sleep(2)
-        print("Office: scenario text part two")
+        print("\nNow that you know the truth, it's time to decide what to do. Your boss has always been extremely \nsupportative of you and you're sure that there's a reasonable explanation for this. Besides, it's not like she's hurting anyone you know or the company.")
         time.sleep(2)
+        print("\nOn the other hand, she's a criminal and these records prove it. Do you really want to be associated with a criminal?")
     elif pl == "officeTwo":
-        print("You've decided that the right thing to do is to report your new, juicy findings.")
+        print("You've decided that the best thing to do is to report your new, juicy findings.")
         time.sleep(4)
         print("However, you're not sure who exactly to report them to.")
         time.sleep(3)
         print("Therefore, you take some time to think about who might be worth exposing these secrets with.")
         time.sleep(5)
+        print("\nYou could bring it up with the top executives at your company. Company loyality is valued, \nand you're sure that they won't like it if one of their managers is doing something that could \nget them in trouble. Who knows, you may even get a bonus or promotion for your efforts, \nand it'll help in the long run. ")
+        time.sleep(5)
+        print("\nYou also consider reporting it to the media. Sure, your company won't be happy, but you may \nget some national attention and even credibility, since you've got evidence.")
+        time.sleep(5)
+        print("\nLast, but certainly not least, you realize that the SEC may be interested in this. Sure, you \nwon't get much credit or compensation, but the law is what keeps people from doing the wrong \nthing. However, the law can't do anything unless it knows of a wrongdoing.")
     elif pl == "newsOne":
         print("You decide to report your findings to a local news outlet.")
         time.sleep(2)
@@ -139,11 +145,12 @@ def makeDecision(player):
         choiceCount = 2
         print("1: Report your findings")
         print("2: Trash your findings")
+        print("3: Confront your boss")
     elif pl == "officeTwo":
         choiceCount = 3
-        print("1: Report your findings the top executives in your company")
-        print("2: Report your findings to a local news source, The Big Scoop")
-        print("3: Report your findings to the SEC")
+        print("1: Report your findings the top executives in your company [Aristotelian]")
+        print("2: Report your findings to a local news source, The Big Scoop [Egoist]")
+        print("3: Report your findings to the SEC [Legalist]")
 
     # More universal decision code
     choosing = True
