@@ -69,7 +69,7 @@ def loadArea(player):
     readScenario(player)
 
     # print text for decision count
-    print("--------------------\nDECISION " + str(player.getDCount() + 1) + "\n--------------------")
+    print("--------------------\nDECISION " + str(player.getDCount() + 3) + "\n--------------------")
 
     # player makes their choice
     makeDecision(player)
