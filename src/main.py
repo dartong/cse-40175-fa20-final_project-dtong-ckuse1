@@ -12,8 +12,17 @@ class Player:
     def __init__(self, inputName):
         self.name = inputName
         self.location = "s0"
-        self.morality = [0 for i in range(9)]       # [Aristotelian, Confucian, Deontological, Egoist, Epicurean, Legalist, Stoic, Utilitarian]
-        self.currChoice = 0         # possibly unneeded
+        self.morality = {
+            "aristotelian"  : 0,
+            "confucian"     : 0,
+            "deontological" : 0,
+            "egoist"        : 0,
+            "epicurian"     : 0,
+            "legalist"      : 0,
+            "stoic"         : 0,
+            "utilitarian"   : 0
+        }
+        self.choiceCount = 0         # possibly unneeded
 
     # Getters/Setters
     def getName(self):
@@ -25,8 +34,8 @@ class Player:
     def getMorality(self):
         return self.morality
 
-    def getCurrChoice(self):
-        return self.currChoice
+    def getCount(self):
+        return self.choiceCount
 
     def setName(self, inputName):
         self.name = inputName
@@ -37,12 +46,18 @@ class Player:
     def setMorality(self, inputMorality):
         self.morality = inputMorality
 
-    def setCurrChoice(self, inputChoice):
-        self.currChoice = inputChoice
-
     # Utility
     def updateMorality(self, inputMorality):
         self.morality[inputMorality] += 1
+
+    def reset(self):
+        self.setLocation("s0")
+        self.setMorality([0 for i in range(9)])
+        self.choiceCount = 0
+
+    def newChoice(self):
+        self.choiceCount += 1
+
 
 # Functions
 def runGame(player):
@@ -57,25 +72,57 @@ def runGame(player):
             # Update player
             player.setLocation(scene.getNextScene(int(choice)))  # Set next location
             player.updateMorality(ethic)                    # Update player morality
+            player.newChoice()
 
         else:
             scene.printScene(player.getName())              # Print scene dialogue
             return
 
+def stat(player):
+    morality = player.getMorality()
+    max = 0
+    alignment = "none of the"
+    for key in morality.keys():
+        if morality[key] > max:
+            alignment = key
+    print("\nYou made", player.choiceCount, "decisions.")
+    print("Your ethic most closely aligns with", alignment, "ethics.")
+    
+    print("\nEthical Decision Distribution:")
+    print("%15s 0   20  40  60  80  100" % (""))
+    for key in morality.keys():
+        print("%14s |" % (key), end = "")
+        string = ""
+        for i in range(1, int((morality[key] / player.choiceCount) * 100), 5):
+            string = string + "="
+        print("%20s|" % (string))
+    print("%15s   10  30  50  70  90" % (""))
+    print("Values are shown in percentage, ")
 
 # Main execution
 def main():
     # Get player name as input
-    print("Enter Player Name:")
-    pname = sys.stdin.readline().strip()
+    uinput = input("Enter Player Name: ")
 
     # create the player object
-    player = Player(pname)
+    player = Player(uinput)
 
     # GAME START
-    runGame(player)
+    keepPlaying = True
+    while keepPlaying == True:
 
-    print("done")
+        runGame(player)
+        stat(player)
+
+        uinput = input("Do you want to play again? y to continue, n to exit:")
+        while uinput != "y" and uinput != "n":
+            uinput = input("Invalid input! y to continue, n to exit: ")
+        if uinput == "n":
+            break
+        else:
+            player.reset()
+
+    print("Thanks for playing!")
 
 # Main declaration
 if __name__ == '__main__':
