@@ -47,9 +47,9 @@ class Scene:
         return self.choiceEthic[choice - 1]
 
 # Story content
-s0 = Scene("s0", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "epicurean"], ["s1"])
+s0 = Scene("s0", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "epicurean"], ["s1", "s1"])
 
-s1 = Scene("s1", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "utilitarian"], ["s2"])
+s1 = Scene("s1", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "utilitarian"], ["s2", "s2"])
 
 s2 = Scene("s1", ["Line 1", "Line 2"], [0], [0], 0)
 
