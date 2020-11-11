@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T23:53:04.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qZoAocABni3r6Uh0ZziG" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T23:55:29.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Dt0rm5zMRztQMGV6N1Kq" version="13.9.2" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="2818" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--18" value="m0" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="130" y="30" width="620" height="310" as="geometry">
-            <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
+            <mxRectangle x="130" y="30" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--19" value="&quot;Good morning, %name%. The time is 8:30 AM. You have 5 appointments today, starting with...&quot; The voice of your virtual assistant fades away &#xa;&#xa;We are an employee at some kind of internet advertisement agency.our boss invites us into her office at the beginning of the day to discuss what appears to be important mattersboss then proceeds to explain her plan:&#xa;As always, the company wants her to develop better ways to target ads to consumer audience.She’s been working on a revolutionary new algorithm that’ll give far more personalized results.However, this requires extensive testing, including her using personal data instead of aggregate data - an obvious consumer privacy breachEmployee must then decide whether to join her or decline" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--18">
@@ -32,6 +32,9 @@
         <mxCell id="ORPxbONJtoW9aJd18paX-3" value="1. Report your findings&#xa;2. Trash your findings&#xa;3. Confront your boss&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-1">
           <mxGeometry y="150" width="620" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--22" target="e9B-Smu1X89H_BTClJb--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--22" value="m1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-320" y="440" width="620" height="310" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
@@ -40,7 +43,7 @@
         <mxCell id="e9B-Smu1X89H_BTClJb--23" value="Boss tells you great, tells you that she’ll tell you more tomorrow, but for now, go back to work. Back home, you decide to go to bed early. You think about what the boss told you today, but still feel a bit uncertain about joining it. You decide to think about how to approach this project.&#xa;Expand on benefits of going all in (promotions for you, no harm to consumer, good for the company, could get you fame since you are developing a revolutionary algorithm), don&#39;t betray the boss&#39;s trust in you&#xa;You&#39;re concerned about seeing personal data, however. You could try to change the boss&#39;s approach to this project to use less personal data, but that might prevent the algorithm from ever being developed to its full potential." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--22">
           <mxGeometry y="26" width="620" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--24" value="1. Decide that the benefits of using consumer data outweighs it&#39;s privacy violations.&#xa;2. Try to change the development approach." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--22">
+        <mxCell id="e9B-Smu1X89H_BTClJb--24" value="1. Decide that the benefits of using consumer data outweighs it&#39;s privacy violations. [Egoist]&#xa;2. Try to change the development approach." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--22">
           <mxGeometry y="150" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--26" value="Sx" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
@@ -52,6 +55,17 @@
           <mxGeometry y="26" width="620" height="124" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--28" value="Row 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--26">
+          <mxGeometry y="150" width="620" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--30" value="m2" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-840" y="830" width="620" height="310" as="geometry">
+            <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--31" value="text" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
+          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--32" value="Row 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
           <mxGeometry y="150" width="620" height="26" as="geometry" />
         </mxCell>
       </root>
