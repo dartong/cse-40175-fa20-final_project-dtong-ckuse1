@@ -11,13 +11,13 @@ class Player:
     # Constructor/Initialization
     def __init__(self, inputName):
         self.name = inputName
-        self.location = "s0"
+        self.location = "b1"
         self.morality = {
             "aristotelian"  : 0,
             "confucian"     : 0,
             "deontological" : 0,
             "egoist"        : 0,
-            "epicurian"     : 0,
+            "epicurean"     : 0,
             "legalist"      : 0,
             "stoic"         : 0,
             "utilitarian"   : 0
@@ -87,7 +87,7 @@ def stat(player):
             alignment = key
     print("\nYou made", player.choiceCount, "decisions.")
     print("Your ethic most closely aligns with", alignment, "ethics.")
-    
+
     print("\nEthical Decision Distribution:")
     print("%15s0   20  40  60  80  100" % (""))
     for key in morality.keys():
