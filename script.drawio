@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T14:20:52.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="QxKQf_uPEJKtrjaygyiG" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T15:04:22.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="SFjzAjtRJajYuYwuKNG-" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2522" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -160,15 +160,15 @@
           <mxGeometry y="220" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-11" value="r4" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1640" y="430" width="620" height="310" as="geometry">
+          <mxGeometry x="1640" y="430" width="620" height="380" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-12" value="You decide that what your boss is doing isn&#39;t right, and that it needs to stop. The best way to achieve this is to directly confront your boss about the issue. After all, you and her respect one another, and one another&#39;s opinion. There is a chance that she&#39;ll listen to what you have to say.&#xa;&#xa;The next morning, you go to talk to your boss. You tell her that you feel very strongly that you shouldn&#39;t be stealing consumer data like that, even if it will result in strong profits for the company.&#xa;Boss is reluctant to stop." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-11" vertex="1">
-          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-12" value="You decide that what the boss and her team are doing is not right, and that it needs to stop. You decide that the best way to proceed in this case is to directly confront your boss about the issue. After all, you and her respect one another, and one another&#39;s opinion. There is a chance that she&#39;ll listen to what you have to say.&#xa;&#xa;The next morning, you go to talk to your boss. You tell her that you feel very strongly that she and the special company team shouldn&#39;t be stealing consumer data in the manner they are, even if it will result in strong profits for the company.&#xa;&#xa;After your confrontation, the boss seems hesitant to change her perspective. After all, she probably has a strong attachment to the idea still.." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-11" vertex="1">
+          <mxGeometry y="26" width="620" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-13" value="1. Continue trying to convince the boss to stop&#xa;2. Threaten to whistleblow on the boss if they don&#39;t stop" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-11" vertex="1">
-          <mxGeometry y="150" width="620" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-13" value="1. Continue trying to convince the boss to stop the team&#xa;2. Threaten to whistleblow the team&#39;s actions if they don&#39;t stop" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-11" vertex="1">
+          <mxGeometry y="220" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e9B-Smu1X89H_BTClJb--28" target="ORPxbONJtoW9aJd18paX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -183,43 +183,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-18" value="r5" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1740" y="1275" width="620" height="320" as="geometry">
+          <mxGeometry x="1740" y="1275" width="620" height="530" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-19" value="Narc to the news&#xa;&#xa;Who do you want to report it to? More importantly, what are you trying to get out of this?&#xa;&#xa;big news: national attention, credibility if you play it right, maybe even some improved privacy laws on a national level&#xa;local news: likelier they&#39;ll report it, reduced attention on yourself, community focus&#xa;alex jones: wouldn&#39;t get any attention outside of the company, but would put pressure on the executives to be careful on how they run the company" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-18" vertex="1">
-          <mxGeometry y="26" width="620" height="134" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-19" value="You decide that the best way to solve the issue at hand is to garner public attention for it by reporting the story to the media. After all, the power truly lies in the hands of the people. You begin to consider which news source in particular to report it to. Three come to mind.&#xa;&#xa;Firstly, you could choose to report it to a very large news station. A story like yours could certainly garner a lot of attention, and by having it represented on such an important news source could bring even more results than you&#39;re looking for. Getting your story picked up at all would be hard to achieve, of course. &#xa;&#xa;You could also choose to report the story to a smaller, more local news outlet. They&#39;re not invisible, mind you - just not to the same scale as a massive news network. Reporting to this source could still lead to pretty noticeable awareness in the local community and change in the company. Plus, this source is more likely to listen to you.&#xa;&#xa;There is also the third option, which is choosing to report your findings to what is typically regarded as questionable news. This source will certainly take your story - they may even ask you for it before you get a chance. However, there is a far lower likelihood that anyone will take your story seriously because of the way that it is presented - but at the very least, it could still garner some attention in the company and community that leads to change.&#xa;&#xa;big news: national attention, credibility if you play it right, maybe even some improved privacy laws on a national level&#xa;local news: likelier they&#39;ll report it, reduced attention on yourself, community focus&#xa;alex jones: wouldn&#39;t get any attention outside of the company, but would put pressure on the executives to be careful on how they run the company" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-18" vertex="1">
+          <mxGeometry y="26" width="620" height="344" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-20" value="1. Big news&#xa;2. local news&#xa;3. alex jones" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-18" vertex="1">
-          <mxGeometry y="160" width="620" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-20" value="1. Report to a large, national news source&#xa;2. Report to a smaller local news source&#xa;3. Report to Alex Jones" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-18" vertex="1">
+          <mxGeometry y="370" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ORPxbONJtoW9aJd18paX-10" target="ORPxbONJtoW9aJd18paX-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-22" value="r6" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="2310" y="880" width="620" height="310" as="geometry">
+          <mxGeometry x="2310" y="880" width="630" height="450" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-23" value="Narc to consumer privacy protection agency&#xa;&#xa;- lawsuit happens&#xa;- drags out&#xa;- you&#39;re forced to be there as a witness, boss sees you despite your initial anonymity&#xa;&#xa;protecting the boss results in higher up executives getting in trouble&#xa;not protecting the boss results in the boss being thrown under the bus by executives (plausible deniability)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-22" vertex="1">
-          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-23" value="You decide that the most effective course of action would be to report your findings to that consumer privacy protection agency. After all, this type of thing is exactly what they were created to handle. You end up giving them a call.&#xa;&#xa;A few months later, a trial is called. This trial is the result of the protection agency calling a lawsuit on the company you used to work at, and accusing them of exactly what you learned - the illegal stealing of consumer data. You are called in to act as a witness for the trial.&#xa;&#xa;At some point, you are called to the stand to testify. As you are asked a series of questions, your eyes meet the boss&#39;s in the audience. She turns away. You start to have second thoughts about what you are doing. Could you really go against the boss like this?&#xa;&#xa;The moment of truth arrives and you are asked to deliver decisive testimony against the boss herself for being involved with this group. Will you mention her involvement, or will you try to protect the boss?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-22" vertex="1">
+          <mxGeometry y="26" width="630" height="264" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-24" value="1. choose to protect boss, make some excuse (say someone else invited you)&#xa;2. reveal everything you know (boss did an injustice, must be punished)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-22" vertex="1">
-          <mxGeometry y="150" width="620" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-24" value="1. Lie and say that the boss wasn&#39;t involved with the secret scheme&#xa;2. Reveal everything you know, and incriminate all involved guilty parties" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-22" vertex="1">
+          <mxGeometry y="290" width="630" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ORPxbONJtoW9aJd18paX-9" target="ORPxbONJtoW9aJd18paX-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-29" value="r7" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="2410" y="500" width="620" height="310" as="geometry">
+          <mxGeometry x="2410" y="500" width="620" height="280" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-30" value="Your boss is highly offended by your strong decision to threaten her with exposition (she trusted you, after all). Taking the gamble, your boss believes it is a bluff, and is offended enough to relieve you of duty on the spot. Being sent home, you wonder if you really do plan to expose your boss, after everything you&#39;ve been through. Is it worth it? What is the right thing to do?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-29" vertex="1">
-          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-30" value="After bringing your threat to light, the boss looks very taken aback. After all, you and her had a strong and trustful relationship, and it seems that you&#39;ve brought harm to that in her eyes. However, she decides that her project is too important, and that because of it, it&#39;s simply too dangerous to keep you at the company where you could potentially expose more information. She fires you.&#xa;&#xa;After being sent home, you once again reflect on your situation. Now, there&#39;s certainly no reason to keep quiet about what you have learned, especially after seeing a knee-jerk reaction like the one the boss had. Plus, it&#39;d be a perfect way to enact revenge for being fired.&#xa;&#xa;Of course, your feelings of trust with the boss still persist, even now. Maybe it would be better to help someone that you do know rather than potentially helping consumers that you don&#39;t.&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-29" vertex="1">
+          <mxGeometry y="26" width="620" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-31" value="1. Bring the news to light&#xa;2. Stay quiet about it and move on" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-29" vertex="1">
-          <mxGeometry y="150" width="620" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-31" value="1. Change your mind, and try to expose the boss&#39;s secret team to the public&#xa;2. Stay quiet about the situation and move on with your life" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-29" vertex="1">
+          <mxGeometry y="210" width="620" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ORPxbONJtoW9aJd18paX-13" target="ORPxbONJtoW9aJd18paX-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--37" value="1. Executives punished, company goes bankrupt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2470" y="1245" width="120" height="60" as="geometry" />
+          <mxGeometry x="2490" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.903;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ORPxbONJtoW9aJd18paX-24" target="e9B-Smu1X89H_BTClJb--38" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--38" value="2. Boss thrown under the bus, company goes on like nothing happend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2810" y="1245" width="120" height="60" as="geometry" />
+          <mxGeometry x="2810" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-40" value="ending" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-390" y="1740" width="620" height="340" as="geometry">
