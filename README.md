@@ -7,6 +7,7 @@ The flowchart containing the story paths can be accessed by opening `script.draw
 
 # Students
 Darren Tong (dtong@nd.edu)
+
 Connor Kuse (ckuse1@nd.edu)
 
 ## Usage
