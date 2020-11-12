@@ -38,7 +38,7 @@ class Scene:
             for j in i:
                 sys.stdout.write(j)
                 sys.stdout.flush()
-                #time.sleep(0.05)
+                time.sleep(0.05)
 
     def printChoice(self, name):
         time.sleep(0)
@@ -47,7 +47,7 @@ class Scene:
                 for j in i:
                     sys.stdout.write(j)
                     sys.stdout.flush()
-                    time.sleep(0.01)
+                    time.sleep(0.05)
 
     def getNextScene(self, choice):
         return self.next[choice - 1]
