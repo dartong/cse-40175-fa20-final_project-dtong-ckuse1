@@ -66,7 +66,13 @@ m3 = Scene("m3", ["You decide to present your algorithm improvement - the benefi
 
 m4 = Scene("m4", ["You decide that digging even deeper into consumer data is not worth the troubles that accompany it - and it certainly doesn't make you feel good about it, either. Rather, you become inspired - you now want to find a way to develop an algorithm that only uses consumer data that is legally available and safe to use. For now, you will wait and simply go along with the plans that the team has already proposed from you. However, whenever you have a team meeting, you can notice the cautious gaze of one team member in particular..\n", "After a few months, the boss calls you in to talk. Then, she explains that the team has discovered a way to improve the algorithm by furthering consumer data usage - the very thing you already noticed. She wants you to begin implementation of this immediately. However, your hesitant thoughts from before resurface - you ask if there is any way to simply continue your current progress. The work already being done has still been successful, after all. However, it seems the boss has no choice, as she then gives you an ultimatum - either you do what she asks, or unfortunately the only other option is for you to leave the team, and lose all benefits that you were receiving for it.\n", "This is a big decision - it could be worth risking asking the boss for more time. That may backfire, though.\n"], ["1: Agree that the algorithm be upgraded even further by looking even deeper into personal customer data\n", "2: Decide to ask the boss to wait for a decision\n"], ["epicurean", "confucian"], ["reverseNarcEnd", "chadEnd"])
 
-r1 = Scene("m3", ["\n", "\n", "\n"], ["\n", "\n"], ["", ""], ["", ""])
+r1 = Scene("r1", ["\n", "\n", "\n"], ["1: \n", "2: \n"], ["", ""], ["r2", "r3", "r4"])
+r2 = Scene("r2", ["\n", "\n", "\n"], ["1: \n", "2: \n"], ["", ""], ["mehEnd", "kantEnd"])
+r3 = Scene("r3", ["\n", "\n", "\n"], ["1: \n", "2: \n", "3: \n"], ["", "", ""], ["badNarcEnd", "r5", "r6"])
+r4 = Scene("r4", ["\n", "\n", "\n"], ["1: \n", "2: \n"], ["", ""], ["pointlessEnd", "r7"])
+r5 = Scene("r5", ["\n", "\n", "\n"], ["1: \n", "2: \n", "3: \n"], ["", "", ""], ["CNEnd", "observerEnd", "infowarsEnd"])
+r6 = Scene("r6", ["\n", "\n", "\n"], ["1: \n", "2: \n"], ["", ""], ["simpEnd", "legalEnd"])
+r7 = Scene("r7", ["\n", "\n", "\n"], ["1: \n", "2: \n"], ["", ""], ["r3", "cuckEnd"])
 
 trashEnd = Scene("trashEnd", ["You decide that the danger that your coworker poses is too risky. After all, you've put everything on the line at this point so that you can reap the benefits - but there's a lot at stake in the eyes of the law. Lucky for you, however, you find this guy's info using the very service you are developing, and boy is it good. There's plenty there to blackmail with - and surely enough, after the fact, that local news source had decided to stop sending their journalists to investigate. I suppose they had lost motivation for some reason.\n", "Well, after all, you end up rich and successful. However, at the expense of so many along the way, was it truly worth it? Only you will know.\n"], 0, 0, 0)
 
@@ -74,7 +80,17 @@ reverseNarcEnd = Scene("reverseNarcEnd", ["After making your decision, a few wee
 
 chadEnd = Scene("chadEnd", ["Due to the trustful relationship that you share with the boss, they decide to believe in you and give you some extra time before removing you from the team. You excuse yourself for the day.\n", "At the end of the day, after getting ready to fall asleep, you think back on everything that's happened. The team, the algorithm... the algorithm. That's it! You've thought of a way to improve the algorithm without using extra unnecessary consumer data. This could work!\n", "After a week of the team not meeting, and a week of your hard work to develop your new algorithm, the team meeting finally arrives. You present your new discoveries - and it turns out the algorithm works even better than was originally expected! It seems by breaking out of your tunnel vision, you were able to find an even better solution. Since this new algorithm will still make the company big profits, the team agrees to use your new solution. Everything seemed to work out well, in the end - and you didn't even have to steal data.\n"], 0, 0, 0)
 
-otherEnd = Scene("otherEnd", ["got em\n", "ur a genius\n", "big pp\n"], 0, 0, 0)
+mehEnd = Scene("mehEnd", ["\n", "\n", "\n"], 0, 0, 0)
+kantEnd = Scene("kantEnd", ["\n", "\n", "\n"], 0, 0, 0)
+badNarcEnd = Scene("badNarcEnd", ["\n", "\n", "\n"], 0, 0, 0)
+pointlessEnd = Scene("pointlessEnd", ["\n", "\n", "\n"], 0, 0, 0)
+CNEnd = Scene("CNEnd", ["\n", "\n", "\n"], 0, 0, 0)
+observerEnd = Scene("observerEnd", ["\n", "\n", "\n"], 0, 0, 0)
+infowarsEnd = Scene("infowarsEnd", ["\n", "\n", "\n"], 0, 0, 0)
+simpEnd = Scene("simpEnd", ["\n", "\n", "\n"], 0, 0, 0)
+legalEnd = Scene("legalEnd", ["\n", "\n", "\n"], 0, 0, 0)
+cuckEnd = Scene("cuckEnd", ["\n", "\n", "\n"], 0, 0, 0)
+
 
 # Update the hash map for all story events
 eventMap = {
