@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T02:24:27.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="8BGe1qoqYtmN1qqP3gQn" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T02:42:08.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="WGuKuXVj1tOC9lwvOTSo" version="13.9.2" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="2522" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2818" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,15 +10,15 @@
         <mxCell id="e9B-Smu1X89H_BTClJb--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--18" target="e9B-Smu1X89H_BTClJb--26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--18" value="m0" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="e9B-Smu1X89H_BTClJb--18" value="b1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="130" y="30" width="620" height="310" as="geometry">
             <mxRectangle x="130" y="30" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--19" value="&quot;Good morning, %name%. The time is 8:30 AM. You have 5 appointments today, starting with...&quot; The voice of your virtual assistant fades away &#xa;&#xa;We are an employee at some kind of internet advertisement agency.our boss invites us into her office at the beginning of the day to discuss what appears to be important mattersboss then proceeds to explain her plan:&#xa;As always, the company wants her to develop better ways to target ads to consumer audience.She’s been working on a revolutionary new algorithm that’ll give far more personalized results.However, this requires extensive testing, including her using personal data instead of aggregate data - an obvious consumer privacy breachEmployee must then decide whether to join her or decline" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="e9B-Smu1X89H_BTClJb--18" vertex="1">
+        <mxCell id="e9B-Smu1X89H_BTClJb--19" value="&quot;Good morning, %name%. The time is 8:30 AM. You have 5 appointments today, starting with...&quot; The voice of your virtual assistant fades away &#xa;&#xa;We are an employee at some kind of internet advertisement agency.our boss invites us into her office at the beginning of the day to discuss what appears to be important mattersboss then proceeds to explain her plan:&#xa;As always, the company wants her to develop better ways to target ads to consumer audience.She’s been working on a revolutionary new algorithm that’ll give far more personalized results.However, this requires extensive testing, including her using personal data instead of aggregate data - an obvious consumer privacy breachEmployee must then decide whether to join her or decline" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--18">
           <mxGeometry y="26" width="620" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--21" value="1. Accept her offer&#xa;2. Politely decline" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="e9B-Smu1X89H_BTClJb--18" vertex="1">
+        <mxCell id="e9B-Smu1X89H_BTClJb--21" value="1. Accept her offer&#xa;2. Politely decline" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--18">
           <mxGeometry y="160" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--22" target="e9B-Smu1X89H_BTClJb--30">
@@ -40,7 +40,7 @@
         <mxCell id="e9B-Smu1X89H_BTClJb--24" value="1. Decide that the benefits of using consumer data outweighs it&#39;s privacy violations. [Egoist]&#xa;2. Try to change the development approach." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--22">
           <mxGeometry y="150" width="620" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--26" value="Sx" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="e9B-Smu1X89H_BTClJb--26" value="r1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="580" y="440" width="620" height="310" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -173,7 +173,7 @@
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-12" value="You decide that what your boss is doing isn&#39;t right, and that it needs to stop. The best way to achieve this is to directly confront your boss about the issue. After all, you and her respect one another, and one another&#39;s opinion. There is a chance that she&#39;ll listen to what you have to say.&#xa;&#xa;The next morning, you go to talk to your boss. You tell her that you feel very strongly that you shouldn&#39;t be stealing consumer data like that, even if it will result in strong profits for the company." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-11">
+        <mxCell id="ORPxbONJtoW9aJd18paX-12" value="You decide that what your boss is doing isn&#39;t right, and that it needs to stop. The best way to achieve this is to directly confront your boss about the issue. After all, you and her respect one another, and one another&#39;s opinion. There is a chance that she&#39;ll listen to what you have to say.&#xa;&#xa;The next morning, you go to talk to your boss. You tell her that you feel very strongly that you shouldn&#39;t be stealing consumer data like that, even if it will result in strong profits for the company.&#xa;Boss is reluctant to stop." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-11">
           <mxGeometry y="26" width="620" height="124" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-13" value="1. Continue trying to convince the boss to stop&#xa;2. Threaten to whistleblow on the boss if they don&#39;t stop" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-11">
@@ -192,15 +192,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-18" value="Sx" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1275" width="620" height="310" as="geometry">
+          <mxGeometry x="1740" y="1275" width="620" height="320" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-19" value="Narc to the news" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-18">
-          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-19" value="Narc to the news&#xa;&#xa;Who do you want to report it to? More importantly, what are you trying to get out of this?&#xa;&#xa;big news: national attention, credibility if you play it right, maybe even some improved privacy laws on a national level&#xa;local news: likelier they&#39;ll report it, reduced attention on yourself, community focus&#xa;alex jones: wouldn&#39;t get any attention outside of the company, but would put pressure on the executives to be careful on how they run the company" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-18">
+          <mxGeometry y="26" width="620" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-20" value="1. Report to the higher-ups in the company&#xa;2. Report to a local news media source&#xa;3. Report to a newly established consumer protection agency" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-18">
-          <mxGeometry y="150" width="620" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-20" value="1. Big news&#xa;2. local news&#xa;3. alex jones" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-18">
+          <mxGeometry y="160" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-10" target="ORPxbONJtoW9aJd18paX-18">
           <mxGeometry relative="1" as="geometry" />
@@ -210,10 +210,10 @@
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-23" value="Narc to consumer protection agency" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-22">
+        <mxCell id="ORPxbONJtoW9aJd18paX-23" value="Narc to consumer privacy protection agency&#xa;&#xa;- lawsuit happens&#xa;- drags out&#xa;- you&#39;re forced to be there as a witness, boss sees you despite your initial anonymity&#xa;&#xa;protecting the boss results in higher up executives getting in trouble&#xa;not protecting the boss results in the boss being thrown under the bus by executives (plausible deniability)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-22">
           <mxGeometry y="26" width="620" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-24" value="1. Report to the higher-ups in the company&#xa;2. Report to a local news media source&#xa;3. Report to a newly established consumer protection agency" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-22">
+        <mxCell id="ORPxbONJtoW9aJd18paX-24" value="1. choose to protect boss, make some excuse (say someone else invited you)&#xa;2. reveal everything you know (boss did an injustice, must be punished)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-22">
           <mxGeometry y="150" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-9" target="ORPxbONJtoW9aJd18paX-23">
@@ -224,7 +224,7 @@
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-30" value="Your boss is highly offended by your strong decision to threaten her with exposition. Taking the gamble, your boss believes it is a bluff, and is offended enough to relieve you of duty on the spot. Being sent home, you wonder if you really do plan to expose your boss, after everything you&#39;ve been through. Is it worth it? What is the right thing to do?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-29">
+        <mxCell id="ORPxbONJtoW9aJd18paX-30" value="Your boss is highly offended by your strong decision to threaten her with exposition (she trusted you, after all). Taking the gamble, your boss believes it is a bluff, and is offended enough to relieve you of duty on the spot. Being sent home, you wonder if you really do plan to expose your boss, after everything you&#39;ve been through. Is it worth it? What is the right thing to do?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="ORPxbONJtoW9aJd18paX-29">
           <mxGeometry y="26" width="620" height="124" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-31" value="1. Bring the news to light&#xa;2. Stay quiet about it and move on" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ORPxbONJtoW9aJd18paX-29">
@@ -240,13 +240,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-31" target="ORPxbONJtoW9aJd18paX-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2280" y="770" />
+              <mxPoint x="2280" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-37" value="Life goes on, and nothing ends up happening to the boss or her team." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="3070" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-30" target="ORPxbONJtoW9aJd18paX-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.405;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-24" target="e9B-Smu1X89H_BTClJb--37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2650" y="1230" as="sourcePoint" />
+            <mxPoint x="2540" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--37" value="1. Executives punished, company goes bankrupt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="1245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.903;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-24" target="e9B-Smu1X89H_BTClJb--38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2650" y="1260" as="sourcePoint" />
+            <mxPoint x="2720" y="1245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9B-Smu1X89H_BTClJb--38" value="2. Boss thrown under the bus, company goes on like nothing happend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
