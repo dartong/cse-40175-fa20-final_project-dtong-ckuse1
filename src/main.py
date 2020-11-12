@@ -20,7 +20,8 @@ class Player:
             "epicurean"     : 0,
             "legalist"      : 0,
             "stoic"         : 0,
-            "utilitarian"   : 0
+            "utilitarian"   : 0,
+            "feminist"      : 0
         }
         self.choiceCount = 0         # possibly unneeded
 
