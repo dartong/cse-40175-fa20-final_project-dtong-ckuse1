@@ -38,7 +38,7 @@ class Scene:
             for j in i:
                 sys.stdout.write(j)
                 sys.stdout.flush()
-                time.sleep(0.01)
+                time.sleep(0.05)
 
     def printChoice(self, name):
         time.sleep(0)
@@ -47,7 +47,7 @@ class Scene:
                 for j in i:
                     sys.stdout.write(j)
                     sys.stdout.flush()
-                    time.sleep(0.01)
+                    time.sleep(0.05)
 
     def getNextScene(self, choice):
         return self.next[choice - 1]
@@ -56,7 +56,7 @@ class Scene:
         return self.choiceEthic[choice - 1]
 
 # Story content
-b1 = Scene("b1", ["\"Good morning. The time is 8:30 AM. You have 5 appointments today, starting with...\" The voice of your virtual assistant fades away as your mind drifts towards getting ready for work today.\n", "You are an employee at a large internet advertisement agency. You specifically are an expert at devising algorithms to target web consumers based on their available data. Today, walking into work, someone lets you know that your boss is looking to speak with you at some point. You shrug your things off at your desk and wander over to the boss's office. Your boss calls you in and asks you to sit down, and you do as you're told. Then, the boss changes everything. She begins to explain that she wants you to join a team - a secret team operating within the company, which holds the task of personally looking through illegally gathered consumer data, and devising the best possible algorithms from them. Since your skills are exactly what they need, they want you. What do you do?\n", "Accepting her offer could definitely lead to financial or other benefits in my career - but you would be risking dangerous activity, not to mention messing with peoples' data. On the other hand, turning away from this could damage my career at this company as well.\n"], ["1: Accept the boss's offer and join the team\n", "2: Politely refuse to join\n"], ["egoist", "feminist"], ["m1", "r1"])
+b1 = Scene("b1", ["\"Good morning. The time is 8:30 AM. You have 5 appointments today, starting with...\" The voice of your virtual assistant fades away as your mind drifts towards getting ready for work today.\n", "You are an employee at a large internet advertisement agency. You specifically are an expert at devising algorithms to target web consumers based on their available data. Today, walking into work, someone lets you know that your boss is looking to speak with you at some point. You shrug your things off at your desk and wander over to the boss's office. Your boss calls you in and asks you to sit down, and you do as you're told. Then, the boss changes everything. She begins to explain that she wants you to join a team - a secret team operating within the company, which holds the task of personally looking through illegally gathered consumer data, and devising the best possible algorithms from them. Since your skills are exactly what they need, they want you. What do you do?\n", "Accepting her offer could definitely lead to financial or other benefits in your career - but you would be risking dangerous activity, not to mention messing with peoples' data. On the other hand, turning away from this could damage your career at this company as well.\n"], ["1: Accept the boss's offer and join the team\n", "2: Politely refuse to join\n"], ["egoist", "feminist"], ["m1", "r1"])
 
 m1 = Scene("m1", ["The boss tells you that she is very satisfied with your answer! She then tells you that she’ll tell you more tomorrow, but that for now you should just go back to work like normal. After the day's ended, back home, you decide to go to bed early. You think deeply about what the boss told you today, but still feel a bit uncertain about joining her special team. You decide to think about how to approach this project.\n", "If you decide to fully get on board with this, there could definitely be good things in store for you - perhaps a promotion? Certainly fame in the community, after developing such a noteworthy algorithm. It would also certainly bring profits to the company you've worked at for so long. Plus, the consumer data isn't really going to anything bad, so they're barely even victims.\n", "Of course, you would still be stealing consumer data, which is illegal and just doesn't sit right with you. Perhaps there could be a better way? Maybe the algorithm could still be completed in some other, painstaking way. It'd be a long shot, but you may feel better about it.\n"], ["1: Decide that the benefits of using consumer data outweighs it's privacy violations\n", "2: Try to change the development approach\n"], ["egoist", "utilitarian"], ["m2", "m4"])
 

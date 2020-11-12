@@ -101,6 +101,8 @@ def stat(player):
 
 # Main
 def main():
+    # README reminder
+    uinput = input("Before you do anything, make sure you read the README! Enter any key to continue... ")
     # Get player name as input
     uinput = input("Enter Player Name: ")
 
@@ -122,7 +124,7 @@ def main():
         else:
             player.reset()
 
-    print("Thanks for playing!")
+    print("Thanks for playing! We've got a post-game reflection quiz we highly recommend taking. You can find the link in the README.")
 
 # Main declaration
 if __name__ == '__main__':
