@@ -5,6 +5,10 @@ This is a choose-your-adventure (CYA) text-based game, where the player must nav
 
 The flowchart containing the story paths can be accessed by opening `script.drawio` in [draw.io](https://app.diagrams.net/).
 
+## Students
+Darren Tong (dtong@nd.edu)
+Connor Kuse (ckuse1@nd.edu)
+
 ## Usage
 1. Download both `main.py` and `story.py`.
 2. Run via python `main.py`.
