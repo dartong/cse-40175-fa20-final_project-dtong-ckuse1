@@ -6,6 +6,9 @@ import time
 # Classes
 class Scene:
     # Constructor
+    # Usage example:m0 = Scene("m0", ["Line 1\n", "Line 2\n"], ["Choice 1\n", "Choice 2\n"], ["aristotilian", "utilitarian"], ["s1", "s2"])
+    # Important note: have a new line char ("\n") at the end of each line or choice!
+    # Ending should look like this: s3 = Scene("s3", ["Line 1\n"], [0], [0], 0)
     def __init__(self, id, text, choiceText, choiceEthic, next):
         self.id = id                    # Scene identification
         self.text = text                # Dialogue text
@@ -32,13 +35,17 @@ class Scene:
     # Utility
     def printScene(self, name):
         for i in self.text:
-            print(i)
-            time.sleep(0)
+            for j in i:
+                print(j, end="")
+                time.sleep(0.05)
 
     def printChoice(self, name):
         time.sleep(0)
         for i in self.choiceText:
-            print(i)
+            for j in i:
+                sys.stdout.write(j)
+                sys.stdout.flush()
+                time.sleep(0.05)
 
     def getNextScene(self, choice):
         return self.next[choice - 1]

@@ -67,7 +67,7 @@ def runGame(player):
         if scene.next != 0:
             scene.printScene(player.getName())              # Print scene dialogue
             scene.printChoice(player.getName())             # Print choice dialogue
-            choice = sys.stdin.readline().strip()           # Get user choice
+            choice = input("\n")           # Get user choice
             ethic = scene.getEthic(int(choice))                  # Get ethic chosen
             # Update player
             player.setLocation(scene.getNextScene(int(choice)))  # Set next location
