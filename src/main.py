@@ -89,17 +89,17 @@ def stat(player):
     print("Your ethic most closely aligns with", alignment, "ethics.")
     
     print("\nEthical Decision Distribution:")
-    print("%15s 0   20  40  60  80  100" % (""))
+    print("%15s0   20  40  60  80  100" % (""))
     for key in morality.keys():
         print("%14s |" % (key), end = "")
         string = ""
         for i in range(1, int((morality[key] / player.choiceCount) * 100), 5):
             string = string + "="
-        print("%20s|" % (string))
-    print("%15s   10  30  50  70  90" % (""))
+        print("{0:<20s}|".format(string))
+    print("%15s  10  30  50  70  90" % (""))
     print("Values are shown in percentage, ")
 
-# Main execution
+# Main
 def main():
     # Get player name as input
     uinput = input("Enter Player Name: ")
