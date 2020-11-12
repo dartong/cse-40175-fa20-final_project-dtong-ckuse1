@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T03:04:54.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="46cA8QRqALPgJ1KpFHS4" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T03:12:07.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="W_NckGlRhqjZSddQp5bv" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2522" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,15 +52,15 @@
           <mxGeometry y="150" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--30" value="m2" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-840" y="830" width="620" height="310" as="geometry">
+          <mxGeometry x="-840" y="830" width="620" height="410" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--31" value="The next day, you now meet with a small team that your boss has assembled. It turns out that this team has been secretly run by the company for years, and is an ongoing development project to harvest data. &#xa;The team consists of five people. They all look quite intimidating, and certainly more important than you. They do give off stuffy old guy vibes, though.&#xa;&#xa;They&#39;ve noticed your talents and wish to bring you onto the team to bring it to heights it could never reach before. They first decide to show you the existing ideas for their algorithm as a starting point.&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
-          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        <mxCell id="e9B-Smu1X89H_BTClJb--31" value="The next day, you have your very first meeting with the secret company team. The boss is there, of course. She is accompanied by 5 other company members, all looking relatively older in age, and quite stern. Not exactly what you&#39;re looking for from a team, but you keep your hopes up. As they brought you onto the team because of your algorithm expertise, they proceed to show you what their previous plans were. Looking through them, you observe that they are actually pretty good. &#xa;&#xa;However, you also immediately notice that with a slight addition in consumer data, the algorithm could be greatly improved, making it groundbreaking. However, that slight addition would be highly questionable consumer data that would certainly violate privacy laws.&#xa;&#xa;You could also choose not to mention anything and agree to use the plans they already had in store - that way, you would still just be using consumer data that you make you feel better on the inside about having. Of course, not as many benefits would be in store if you were to do that." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
+          <mxGeometry y="26" width="620" height="224" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--32" value="1. Suggest that the algorithm be upgraded even further by looking even deeper into personal customer data&#xa;2. Agree that the team&#39;s ideas for the algorithm are sufficient and decide to go along with it (potential merge with &quot;try to change development approach&quot; previous choice" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
-          <mxGeometry y="150" width="620" height="160" as="geometry" />
+          <mxGeometry y="250" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="V5t-5OzrnSoj0Fzdp6cP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-7" target="V5t-5OzrnSoj0Fzdp6cP-25">
           <mxGeometry relative="1" as="geometry" />
