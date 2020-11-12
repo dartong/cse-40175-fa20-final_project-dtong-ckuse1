@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T15:25:45.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="idG28D2OQp1n6iE282g3" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T15:39:29.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="x_QT4eES31aS99k120GR" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2522" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -277,6 +277,24 @@
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-43" value="You decide that the danger that your coworker poses is too risky. After all, you&#39;ve put everything on the line at this point so that you can reap the benefits - but there&#39;s a lot at stake in the eyes of the law. Lucky for you, however, you find this guy&#39;s info using the very service you are developing, and boy is it good. There&#39;s plenty there to blackmail with - and surely enough, after the fact, that local news source had decided to stop sending their journalists to investigate. I suppose they had lost motivation for some reason. &#xa;&#xa;Well, after all, you end up rich and successful. However, at the expense of so many along the way, was it truly worth it? Only you will know." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-42" vertex="1">
           <mxGeometry y="26" width="620" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="aHEVVbb7gqMBnt1pB9fn-2" value="You decide that for a scoop of this importance, it needs to have an important news source to match. You take the story to the first big, international news source you can think of.&lt;br&gt;&lt;br&gt;However, this source determines that due to your current lack of evidence (as well as their general disinterest in the details of the case) that they will not be reporting on it. Dejected, you decide that reporting wasn&#39;t worth the trouble after all. At least there&#39;s another scoop waiting for you - a scoop of the Ben and Jerry&#39;s ice cream pint for you to cry over." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1970" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aHEVVbb7gqMBnt1pB9fn-3" value="You decide that trying for national news would be too daring, and that trying for the more questionable news network wouldn&#39;t yield you any significant results. Therefore, the best choice is to go right down the middle and report to a more local news source that might be willing to listen to you.&lt;br&gt;&lt;br&gt;As a matter of fact, they are willing to listen - and are quite interested. They decide to publish a headliner story about your findings, and it not only garners the attention of the company, but also sparks local community protests around the company. Their hand forced by the public, the company chooses to shut down its secret team. Although not directly brought to court to face full penalty, the privacy of the company&#39;s end consumers has been protected. You&#39;re not sure how the boss feels about everything, though..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1970" width="410" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aHEVVbb7gqMBnt1pB9fn-4" value="You decide that over everything else, the most important thing is that the story be exposed, no matter what. The most willing news source to accept your story is quite questionable, but there may still be people who listen to it and take it seriously.&lt;br&gt;&lt;br&gt;After reporting, the questionable news decides to report on your story. It, of course, doesn&#39;t garner much attention in the community - not many people read it, and those that do don&#39;t treat it that seriously. However, the company did become cautious after noticing your article, and put their suspicious actions on a temporary hold. Although you didn&#39;t destroy the root of the problem, you still may have protected consumer data somewhat... but for how long?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="1900" width="450" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aHEVVbb7gqMBnt1pB9fn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-20" target="aHEVVbb7gqMBnt1pB9fn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHEVVbb7gqMBnt1pB9fn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-20" target="aHEVVbb7gqMBnt1pB9fn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHEVVbb7gqMBnt1pB9fn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORPxbONJtoW9aJd18paX-20" target="aHEVVbb7gqMBnt1pB9fn-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
