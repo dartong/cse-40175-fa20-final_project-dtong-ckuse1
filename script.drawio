@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T15:04:22.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="SFjzAjtRJajYuYwuKNG-" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T15:25:45.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="idG28D2OQp1n6iE282g3" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2522" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -136,14 +136,14 @@
         <mxCell id="V5t-5OzrnSoj0Fzdp6cP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e9B-Smu1X89H_BTClJb--28" target="V5t-5OzrnSoj0Fzdp6cP-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-4" value="They get away with it - but you&#39;re not involved, so it&#39;s none of your business." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="1250" width="120" height="60" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-4" value="You decide to go ahead and say nothing to the journalist. After all, you and the boss trust one another, and you don&#39;t want to provide her with unnecessary trouble.&lt;br&gt;&lt;br&gt;After everything is said and done, you never hear anything more about the boss&#39;s secret team outside of passing rumors, but none are susbtantial enough to be considered. Maybe there are still things happening behind the scenes..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1360" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-40" target="ORPxbONJtoW9aJd18paX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-6" value="A few weeks later, your company is exposed for stealing consumer data. It is sued for very heavy damages. You are not implicated for anything, however." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="1290" width="120" height="120" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-6" value="You decide that since you wouldn&#39;t be getting directly involved, it&#39;s fine to go ahead and throw suspicion towards the boss. After all, it is important to tell the truth no matter what.&lt;br&gt;&lt;br&gt;A few weeks after you decided to tip off the reporter, the story gets exposed and gets huge. The boss&#39;s team and the company eventually get involved with a pretty heavy lawsuit that puts them into some real financial trouble. But at least you know that the privacy of the people is more safe than it was before." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1380" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-40" target="ORPxbONJtoW9aJd18paX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -176,8 +176,8 @@
         <mxCell id="ORPxbONJtoW9aJd18paX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e9B-Smu1X89H_BTClJb--27" target="ORPxbONJtoW9aJd18paX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-16" value="1. You decide to report what you learned to the top members of your company. After scoring a meeting with some of the top dogs, you explain what you know. They mention that it&#39;ll be taken under advisement and dealt with. You continue your career at your company, but you never learned if anything happened to those participating." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="1240" width="300" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-16" value="You decide to report what you learned to the top members of your company. Since they are technically in charge of the boss, they might have the power to stop what is going on behind the scenes without causing any strife to the company!&lt;br&gt;&lt;br&gt;After scoring a meeting with some of the company&#39;s top executives, you explain what you know. They all look around at each other, with expressions of concern - however, they seem to be more concerned for themselves rather than for what is going on. They simply mention to you that it&#39;ll be taken under advisement and dealt with. You leave the meeting, and continue your career at your company, but you never learned if anything ever happened. Based on your suspicions about the company executives, nothing probably ever will." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="1290" width="320" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ORPxbONJtoW9aJd18paX-10" target="ORPxbONJtoW9aJd18paX-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -224,7 +224,7 @@
         <mxCell id="ORPxbONJtoW9aJd18paX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ORPxbONJtoW9aJd18paX-13" target="ORPxbONJtoW9aJd18paX-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-34" value="1. The boss stops you and tells you that although she respects your opinion, she isn&#39;t really capable of changing minds that fast. She tells you that she will bring up your concerns at their next meeting. A few weeks pass, but no news has come from your boss. You suspect your opinions meant nothing to them." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ORPxbONJtoW9aJd18paX-34" value="After continuing on with your argument for a while, the boss stops you and tells you that although she respects your opinion, she isn&#39;t really capable of changing the minds of her fellow team members that quickly. She tells you that she will bring up your concerns at their next meeting, but that there are no promises. &lt;br&gt;&lt;br&gt;A few weeks pass, but no news has come from your boss. You suspect your opinions meant nothing to them. What else could you have done?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2400" y="200" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ORPxbONJtoW9aJd18paX-12" target="ORPxbONJtoW9aJd18paX-34" edge="1">
@@ -238,8 +238,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-37" value="Life goes on, and nothing ends up happening to the boss or her team." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3070" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-37" value="You decide that revenge isn&#39;t worth it, in the end. The best thing to do from here on out is to simply accept the punches the life has dished out and continue onwards.&lt;br&gt;&lt;br&gt;Maybe that other job you were looking at will be better than this last one..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3070" y="360" width="440" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ORPxbONJtoW9aJd18paX-30" target="ORPxbONJtoW9aJd18paX-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -250,8 +250,8 @@
             <mxPoint x="2540" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--37" value="1. Executives punished, company goes bankrupt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="1380" width="120" height="60" as="geometry" />
+        <mxCell id="e9B-Smu1X89H_BTClJb--37" value="You decide that after all you&#39;ve been through, you just can&#39;t ruin the boss&#39;s life like this in good conscience. You decide to lie at the stand, and tell the court that while you recently learned of the team, it was not through the boss that you did so and that she is not involved in any way.&lt;br&gt;&lt;br&gt;The boss looks just as surprised as the rest of the court. However, you seemingly have no reason to lie, so they accept your word. They go on to prove the guilt of the rest of the team members - but the whole company ends up suffering for the actions. Massive financial lawsuits are lined up. Was it worth it? Only you will know." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2490" y="1380" width="290" height="230" as="geometry" />
         </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.903;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ORPxbONJtoW9aJd18paX-24" target="e9B-Smu1X89H_BTClJb--38" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -259,8 +259,8 @@
             <mxPoint x="2720" y="1245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--38" value="2. Boss thrown under the bus, company goes on like nothing happend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2810" y="1370" width="120" height="60" as="geometry" />
+        <mxCell id="e9B-Smu1X89H_BTClJb--38" value="You decide that the truth is the most important thing to consider, regardless of personal feelings. In the end, you testify to everything that you learned, and it becomes quite clear that the boss is heavily involved with such actions.&lt;br&gt;&lt;br&gt;The rest of the secret team present decides on a new course of action because of your words, however. Since you mainly had interaction with the boss, the rest of the members decide to throw her under the bus and say she was the mastermind and they didn&#39;t know what was truly going on. It&#39;s sickening, but you see their freedom guaranteed right in front of your eyes, right as the boss loses hers. However, what more could you have done?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2890" y="1380" width="560" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-40" value="ending" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-390" y="1740" width="620" height="340" as="geometry">
