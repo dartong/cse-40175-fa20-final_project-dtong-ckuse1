@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T00:31:45.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-bkYT3NplR_Xi5XFAkg9" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T00:50:29.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="1-L2zSeN22JFrR4VEYWN" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2321" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -35,6 +35,11 @@
         <mxCell id="e9B-Smu1X89H_BTClJb--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--22" target="e9B-Smu1X89H_BTClJb--30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e9B-Smu1X89H_BTClJb--22" value="m1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-320" y="440" width="620" height="310" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
@@ -68,11 +73,11 @@
         <mxCell id="e9B-Smu1X89H_BTClJb--32" value="1. Suggest that the algorithm be upgraded even further by looking even deeper into personal customer data&#xa;2. Agree that the team&#39;s ideas for the algorithm are sufficient and decide to go along with it (potential merge with &quot;try to change development approach&quot; previous choice" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
           <mxGeometry y="150" width="620" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-4" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-770" y="1230" as="sourcePoint" />
-            <mxPoint x="-550" y="1140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-7" target="V5t-5OzrnSoj0Fzdp6cP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-7" target="V5t-5OzrnSoj0Fzdp6cP-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5t-5OzrnSoj0Fzdp6cP-7" value="m3" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-1080" y="1240" width="620" height="490" as="geometry">
@@ -84,6 +89,41 @@
         </mxCell>
         <mxCell id="V5t-5OzrnSoj0Fzdp6cP-9" value="1. Take your boss&#39;s secret meaning, blackmail the sus guy, the algorithm succeeds, you and the company get filthy rich. But you know what you did.&#xa;2. Decide that it&#39;s not worth it to do him dirty like that. A week later, your team and company are exposed for their evil deeds. You get major jail time." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V5t-5OzrnSoj0Fzdp6cP-7">
           <mxGeometry y="270" width="620" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-10" value="m4" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1200" width="620" height="340" as="geometry">
+            <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-11" value="You decide that digging even deeper into consumer data isn&#39;t necessary, and doesn&#39;t feel good. Rather, you decide to go along and begin developing the plans that have already been proposed from you. You still notice the cautious gaze of one team member in particular, though..&#xa;&#xa;After a few months, your boss calls you in to talk to you. Then, she explains that the team has discovered a way to improve the algorithm by furthering consumer data usage - the very thing you already noticed. She wants you to begin implementation of this immediately. However, you were hesitant before - you ask if there is any way to continue current progress. It has still been successful, after all. However, your boss then gives you an ultimatum - either you do what she asks or you&#39;re going to have to leave the team and lose all benefits that you were receiving for your extra work" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="V5t-5OzrnSoj0Fzdp6cP-10">
+          <mxGeometry y="26" width="620" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-12" value="1. Suggest that the algorithm be upgraded even further by looking even deeper into personal customer data&#xa;2. Refuse to go along with the plans any further and take the L" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V5t-5OzrnSoj0Fzdp6cP-10">
+          <mxGeometry y="180" width="620" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--32" target="V5t-5OzrnSoj0Fzdp6cP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-11" target="V5t-5OzrnSoj0Fzdp6cP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9B-Smu1X89H_BTClJb--32" target="V5t-5OzrnSoj0Fzdp6cP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-25" value="Get Narc&#39;d on Ending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1660" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-12" target="V5t-5OzrnSoj0Fzdp6cP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-28" value="Scumbag Ending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-30" value="Lame-o Ending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V5t-5OzrnSoj0Fzdp6cP-12" target="V5t-5OzrnSoj0Fzdp6cP-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
