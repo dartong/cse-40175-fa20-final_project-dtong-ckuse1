@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T14:14:03.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="OuPkkK-NFWyez8H1TKUM" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T14:20:52.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="QxKQf_uPEJKtrjaygyiG" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2522" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -149,15 +149,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-8" value="r3" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1170" y="840" width="620" height="310" as="geometry">
+          <mxGeometry x="1170" y="840" width="620" height="380" as="geometry">
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-9" value="You decide that what your boss is doing isn&#39;t right, and that it needs to stop. The best way to achieve this is to expose their misdeeds to the public - that way, they will be forced to stop. You decide that you will be the one to report these secrets - but you are not exactly sure who to report them to yet." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-8" vertex="1">
-          <mxGeometry y="26" width="620" height="124" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-9" value="You decide that the best way to handle the situation from here is to try and go public with the information that you have accrued. This seems to be the most effective way of putting a stop to the stealing of consumer data that is going on.&#xa;&#xa;Of course, while you have decided on this, you are unsure who to report your findings to. You could report them to the top executives of your company - that way, you may be able to shut it down without any overall damage to the company. You could also choose to report your findings to the media, as that always garners a reaction from the public. Finally, you could also choose to report to a newly established consumer privacy protection agency that, while still having to go through all the trials and tribulations of official process, could be just what you&#39;re looking for." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" parent="ORPxbONJtoW9aJd18paX-8" vertex="1">
+          <mxGeometry y="26" width="620" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="ORPxbONJtoW9aJd18paX-10" value="1. Report to the higher-ups in the company&#xa;2. Report to a local news media source&#xa;3. Report to a newly established consumer protection agency" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-8" vertex="1">
-          <mxGeometry y="150" width="620" height="160" as="geometry" />
+        <mxCell id="ORPxbONJtoW9aJd18paX-10" value="1. Report to the company bigwigs&#xa;2. Report to the media&#xa;3. Report to the consumer protection agency" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ORPxbONJtoW9aJd18paX-8" vertex="1">
+          <mxGeometry y="220" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ORPxbONJtoW9aJd18paX-11" value="r4" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1640" y="430" width="620" height="310" as="geometry">
