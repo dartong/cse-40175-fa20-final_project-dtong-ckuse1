@@ -6,8 +6,8 @@ import time
 # Classes
 class Scene:
     # Constructor
-    # Usage example:m0 = Scene("m0", ["Line 1\n", "Line 2\n"], ["Choice 1\n", "Choice 2\n"], ["aristotilian", "utilitarian"], ["s1", "s2"])
-    # Important note: have a new line char ("\n") at the end of each line or choice!
+    # Usage example:m0 = Scene("m0", ["Paragraph 1\n", "Paragraph 2\n"], ["Choice 1\n", "Choice 2\n"], ["aristotilian", "utilitarian"], ["s1", "s2"])
+    # Important note: have a new line char ("\n") at the end of each paragraph or choice!
     # Ending should look like this: s3 = Scene("s3", ["Line 1\n"], [0], [0], 0)
     def __init__(self, id, text, choiceText, choiceEthic, next):
         self.id = id                    # Scene identification
@@ -54,7 +54,7 @@ class Scene:
         return self.choiceEthic[choice - 1]
 
 # Story content
-s0 = Scene("s0", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "epicurean"], ["s1", "s1"])
+s0 = Scene("s0", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "epicurian"], ["s1", "s1"])
 
 s1 = Scene("s1", ["Line 1", "Line 2"], ["Choice 1", "Choice 2"], ["aristotelian", "utilitarian"], ["s2", "s2"])
 
