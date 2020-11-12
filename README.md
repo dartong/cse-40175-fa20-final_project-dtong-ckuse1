@@ -11,7 +11,7 @@ Darren Tong (dtong@nd.edu)
 Connor Kuse (ckuse1@nd.edu)
 
 ## Usage
-1. Download both `main.py` and `story.py`.
+1. Download both `main.py` and `story.py` in `src`.
 2. Run via python `main.py`.
 3. Whenever a decision is to be made, enter the corresponding number for the decision you choose.
 4. Once you finish the game, you'll be presented with a breakdown of the decisions you made and what they align with. Additonally, you can take a post-game reflection [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdWISuiwyU2QHIKgO4xjlXCpJY1nt2OtONfQywtYD7paBRP3Q/viewform?usp=sf_link) to see what you learned.  
