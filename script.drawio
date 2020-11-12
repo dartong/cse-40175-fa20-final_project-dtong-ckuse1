@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T00:01:37.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IxMr-kWbh6e7DPbdOLMJ" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T00:31:45.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-bkYT3NplR_Xi5XFAkg9" version="13.9.6" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2321" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -62,11 +62,28 @@
             <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--31" value="The next day, you now meet with a small team that your boss has assembled. It turns out that this team has been secretly run by the company for years, and is an ongoing development project to harvest data. &#xa;The team consists of five people. They all look quite intimidating, and certainly more important than you. They do give off stuffy old guy vibes, though.&#xa;&#xa;They&#39;ve noticed your talents and wish to bring you onto the team to bring it to heights it could never reach before." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
+        <mxCell id="e9B-Smu1X89H_BTClJb--31" value="The next day, you now meet with a small team that your boss has assembled. It turns out that this team has been secretly run by the company for years, and is an ongoing development project to harvest data. &#xa;The team consists of five people. They all look quite intimidating, and certainly more important than you. They do give off stuffy old guy vibes, though.&#xa;&#xa;They&#39;ve noticed your talents and wish to bring you onto the team to bring it to heights it could never reach before. They first decide to show you the existing ideas for their algorithm as a starting point.&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
           <mxGeometry y="26" width="620" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="e9B-Smu1X89H_BTClJb--32" value="Row 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
-          <mxGeometry y="150" width="620" height="26" as="geometry" />
+        <mxCell id="e9B-Smu1X89H_BTClJb--32" value="1. Suggest that the algorithm be upgraded even further by looking even deeper into personal customer data&#xa;2. Agree that the team&#39;s ideas for the algorithm are sufficient and decide to go along with it (potential merge with &quot;try to change development approach&quot; previous choice" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="e9B-Smu1X89H_BTClJb--30">
+          <mxGeometry y="150" width="620" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-4" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-770" y="1230" as="sourcePoint" />
+            <mxPoint x="-550" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-7" value="m3" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1240" width="620" height="490" as="geometry">
+            <mxRectangle x="510" y="180" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-8" value="Everyone on the team is excited by your newfound discoveries. Enthusiastically, the motion to move forward with this enhanced algorithm carries through. One member of the team, a middle-aged man, seems mildly displeased throughout all of it.&#xa;&#xa;3 weeks pass&#xa;&#xa;Progress is continuing extremely well. Thanks to your helpful suggestions, the efficiency of the working algorithm has nearly doubled, and the team couldn&#39;t be happier with your progress. However, your team soon calls a meeting to discuss a recent email. Apparently, your boss received an inquiry from a local news source asking about the potential illegal data harvesting that is present in the algorithm. Everyone is surprised - the one suspicious person on your team seems to have developed a nervous twitch, however.&#xa;&#xa;After the meeting, you report your suspicious claims to your boss. Your boss takes your suggestions under advisement and highly recommends that you test the algorithm one more time - this time, perhaps on your fellow employee. After all, that may make this problem go away." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="V5t-5OzrnSoj0Fzdp6cP-7">
+          <mxGeometry y="26" width="620" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="V5t-5OzrnSoj0Fzdp6cP-9" value="1. Take your boss&#39;s secret meaning, blackmail the sus guy, the algorithm succeeds, you and the company get filthy rich. But you know what you did.&#xa;2. Decide that it&#39;s not worth it to do him dirty like that. A week later, your team and company are exposed for their evil deeds. You get major jail time." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V5t-5OzrnSoj0Fzdp6cP-7">
+          <mxGeometry y="270" width="620" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
