@@ -20,7 +20,8 @@ class Player:
             "epicurean"     : 0,
             "legalist"      : 0,
             "stoic"         : 0,
-            "utilitarian"   : 0
+            "utilitarian"   : 0,
+            "feminist"      : 0
         }
         self.choiceCount = 0         # possibly unneeded
 
@@ -51,8 +52,9 @@ class Player:
         self.morality[inputMorality] += 1
 
     def reset(self):
-        self.setLocation("s0")
-        self.setMorality([0 for i in range(9)])
+        self.setLocation("b1")
+        for key in self.morality:
+            self.morality[key] = 0
         self.choiceCount = 0
 
     def newChoice(self):
@@ -85,6 +87,8 @@ def stat(player):
     for key in morality.keys():
         if morality[key] > max:
             alignment = key
+            max = morality[key]
+    print(morality)
     print("\nYou made", player.choiceCount, "decisions.")
     print("Your ethic most closely aligns with", alignment, "ethics.")
 
